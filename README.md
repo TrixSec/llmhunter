@@ -159,3 +159,5 @@ This tool is designed strictly for authorized security assessments, penetration 
 ## 📄 License
 
 Distributed under the [MIT License](LICENSE).
+
+![Views](https://komarev.com/ghpvc/?username=llmhunter)
